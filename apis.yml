@@ -1,7 +1,12 @@
 aid: firstenergy
-url: https://raw.githubusercontent.com/api-evangelist/firstenergy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/firstenergy/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.firstenergy.com
+description: >-
+  FirstEnergy is one of the largest investor-owned electric systems in the United
+  States, with utilities serving customers in Ohio, Pennsylvania, New Jersey, West
+  Virginia, Maryland, and New York.
