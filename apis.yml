@@ -15,7 +15,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/firstenergy.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/firstenergy/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Energy
   - Fortune 500
