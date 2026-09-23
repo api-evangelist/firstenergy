@@ -1,7 +1,9 @@
 ---
 title: FirstEnergy Board Chair, President and CEO Brian X. ...
 url: https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2025/FirstEnergy-Board-Chair-President-and-CEO-Brian-X--Tierney-Participates-in-Pennsylvania-Energy-and-Innovation-Summit/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FirstEnergy" press release artificial intelligence'
 position: 1
 source: serpapi-google

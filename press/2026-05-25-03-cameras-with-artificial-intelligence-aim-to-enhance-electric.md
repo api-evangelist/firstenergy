@@ -1,7 +1,9 @@
 ---
 title: Cameras with Artificial Intelligence Aim to Enhance Electric ...
 url: https://www.firstenergycorp.com/newsroom/featured_stories/cameras-with-ai-aim-to-enhance-electric-service-reliability.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FirstEnergy" press release artificial intelligence'
 position: 3
 source: serpapi-google
